@@ -3,3 +3,5 @@ subjects
 calender
 
 exam date
+
+theme-colour = green
